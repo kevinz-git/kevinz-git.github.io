@@ -23,7 +23,6 @@ Predicted the customer retention rate by customer info using regression and mach
 
 # [Project 2: Student Life Satisfactation Clustering](https://kevinz-git.github.io/student_life_satisfaction_clustering/)
 This project made clusters of students and variables related with life satisfaction, in order to investigate the patterns of students' life satisfaction and the potential grouping of students, and create a method of making future psychological health recommendations to students.
-![image](https://github.com/kevinz-git/kevinz-git.github.io/assets/123676596/d2dcad34-f60b-41bd-8820-bd75ebcfbfc9)
 ![image](https://github.com/kevinz-git/kevinz-git.github.io/assets/123676596/3742fed2-b8ca-433d-8d64-d0ce28f207cc)
 ![image](https://github.com/kevinz-git/kevinz-git.github.io/assets/123676596/feff582e-2a30-4b13-b585-3e1e3eec8f27)
 
