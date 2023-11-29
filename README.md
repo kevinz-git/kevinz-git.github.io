@@ -1,4 +1,3 @@
-# Kev's Portfolio
 Kevin's Data Science Portfolio
 
 ### Education
