@@ -37,6 +37,7 @@ This project analyzed F1 Driver’s race performance data in Python using machin
 Predicted the drivers’ ranking in each race by range, fastest speed, the timing of fastest speed, age, etc. Built elastic net model to improve results of fitting and feature selection in Pyspark with Databricks platform                                  
 This project analyzed F1 Driver’s race performance data in Python using machine learning 
 Predicted the drivers’ ranking in each race by range, fastest speed, the timing of fastest speed, age, etc. Built elastic net model to improve results of fitting and feature selection in Pyspark with Databricks platform
+![image](https://github.com/kevinz-git/kevinz-git.github.io/assets/123676596/31f0ec74-d9f8-410c-8839-a8073723e76e)
 
 
 ## [Project 4: Big Money Test Regression](https://kevinz-git.github.io/big_money_test_regression/)
@@ -46,6 +47,8 @@ This project analyzed UK's Big Money Test survey data to understand wealth accum
 
 ## [Project 5: Stock Market Risk Management by VaR Calculation](https://kevinz-git.github.io/stock_market_risk_management_by_VaR_calculation/)
 This project used stock dataset to calculate optimal asset allocations under financial theories of risk and returns, as well as estimating VaR( Value at Risk) by stocks' past performance, in order to aid investment risk management. 
+![image](https://github.com/kevinz-git/kevinz-git.github.io/assets/123676596/7fb654e7-d17a-4255-9c72-91187f3fcf6c)
+
 
 
 
