@@ -3,14 +3,19 @@
 ### Education
 
 Columbia University, MS, Applied Statistics
+
 China University of Political Science and Law, BA, Political Science, Economics
 
 ### Work Experience
 
 Alibaba, Data Product Manager Intern
+
 E Fund Management, Business Analyst Intern
+
 Northeast Securities, Financial Analyst Intern
+
 Snowball Finance, Data Analyst Intern
+
 China Philanthropy Research Institute, Policy Analyst Intern
 
 ### Projects
