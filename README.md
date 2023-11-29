@@ -30,9 +30,7 @@ This project made clusters of students and variables related with life satisfact
 # [Project 3: F1 Drivers’ Race Ranking Prediction](https://github.com/kevinz-git/F1_driver_ranking_prediction_elastic_net_regression/blob/main/Elastic-Net%20Regression%20Models.py)            
 This project analyzed F1 Driver’s race performance data in Python using machine learning 
 Predicted the drivers’ ranking in each race by range, fastest speed, the timing of fastest speed, age, etc. Built elastic net model to improve results of fitting and feature selection in Pyspark with Databricks platform                                  
-This project analyzed F1 Driver’s race performance data in Python using machine learning 
-Predicted the drivers’ ranking in each race by range, fastest speed, the timing of fastest speed, age, etc. Built elastic net model to improve results of fitting and feature selection in Pyspark with Databricks platform
-![image](https://github.com/kevinz-git/kevinz-git.github.io/assets/123676596/31f0ec74-d9f8-410c-8839-a8073723e76e)
+![image](https://github.com/kevinz-git/kevinz-git.github.io/assets/123676596/5743d48a-3d39-45b7-ba0a-0d07c9f957d3)
 
 
 # [Project 4: Big Money Test Regression](https://kevinz-git.github.io/big_money_test_regression/)
