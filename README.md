@@ -10,7 +10,7 @@ China University of Political Science and Law, BA, Political Science, Economics
 
 Alibaba, Data Product Manager Intern
 
-E Fund Management, Business Analyst Intern
+E Fund Management, Data Service Intern
 
 Northeast Securities, Financial Analyst Intern
 
