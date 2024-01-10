@@ -26,7 +26,7 @@ This project predicted the customer retention rate by customer info using regres
 
 
 # [Project 2: Student Life Dissatisfication Prediction](https://kevinz-git.github.io/student_life_satisfaction_clustering/)
-This project made exploratory data analysis, prediction and visualization of student life dissatification, and found potential predictors of student life dissatisfication.  I first made k-means and hierarchical clustering analysis and visualization for students and variables related with student life dissatisfaction in R, and Investigated the patterns of 90k students' life satisfaction and the potential grouping of students. I then	made a random forest prediction model of 70% accuracy and identified key predictors for making future psychological health recommendations to students.
+This project made exploratory data analysis, visualization, prediction for student life dissatification, and found potential predictors of student life dissatisfication.  I first made k-means and hierarchical clustering analysis and visualization for students and variables related with student life dissatisfaction in R, and Investigated the patterns of 90k students' life satisfaction and the potential grouping of students. I then	made a random forest prediction model of 70% accuracy and identified key predictors for making future psychological health recommendations to students.
 ![image](https://github.com/kevinz-git/kevinz-git.github.io/assets/123676596/3742fed2-b8ca-433d-8d64-d0ce28f207cc)
 ![image](https://github.com/kevinz-git/kevinz-git.github.io/assets/123676596/feff582e-2a30-4b13-b585-3e1e3eec8f27)
 
